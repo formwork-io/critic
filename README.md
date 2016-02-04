@@ -1,0 +1,2 @@
+# critic
+"It stinks!"
