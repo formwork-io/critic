@@ -1,6 +1,7 @@
 Critic
 ======
 
+
 image:https://img.shields.io/github/release/formwork-io/critic.svg[release,link="https://github.com/formwork-io/critic/releases"]
 image:https://img.shields.io/github/license/formwork-io/critic.svg[license,link="http://opensource.org/licenses/MIT"]
 image:https://img.shields.io/travis/formwork-io/critic/next.svg[build,link="https://travis-ci.org/formwork-io/critic"]
