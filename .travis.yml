@@ -1,0 +1,8 @@
+# see http://docs.travis-ci.com/user/workers/container-based-infrastructure/
+sudo: false
+
+# see http://docs.travis-ci.com/user/languages/go/
+language: go
+
+# vim: ts=2:sw=2 :                                                         
+
